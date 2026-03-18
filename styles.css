@@ -129,6 +129,12 @@ a {
     text-transform: uppercase;
 }
 
+.logo-img {
+    width: 150px; /* Tamaño máximo para que quepa en la barra lateral */
+    height: auto;
+    display: block;
+}
+
 .sidebar .nav-links {
     display: flex;
     flex-direction: column;
